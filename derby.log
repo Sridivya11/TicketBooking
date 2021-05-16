@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun May 16 20:58:23 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0179-75ca-e9a0-000008863e50 
+on database directory memory:/home/sreekar/Desktop/BookTicket/974d9a06-4a2a-471b-8073-192657881ce9 with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/home/sreekar/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_201-b09
+user.dir=/home/sreekar/Desktop/BookTicket
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-133-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
